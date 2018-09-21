@@ -1,0 +1,44 @@
+{
+  "requests": [
+    {
+      "id": "req-00001",
+      "date_from": "2018/08/20",
+      "date_until": "2018/09/01",
+      "passengers": 2,
+      "price": 200,
+      "currency": "USD"
+    },
+    {
+      "id": "req-00002",
+      "date_from": "2018/08/25",
+      "date_until": "2018/09/10",
+      "passengers": 4,
+      "price": 120,
+      "currency": "EUR"
+    },
+    {
+      "price": 25,
+      "currency": "USD",
+      "passengers": 33,
+      "date_from": "2018/09/06",
+      "date_until": "2018/10/17",
+      "id": "H3hifDs"
+    },
+    {
+      "price": 2222,
+      "currency": "EUR",
+      "passengers": 333,
+      "date_from": "2018/09/04",
+      "date_until": "2018/10/25",
+      "id": "4DQzjB0"
+    },
+    {
+      "price": 350,
+      "currency": "EUR",
+      "passengers": 34,
+      "date_from": "2018/09/06",
+      "date_until": "2018/10/09",
+      "id": "oEWEJfY"
+    }
+  ]
+}
